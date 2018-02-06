@@ -6,10 +6,16 @@ https://docs.python.jp/3/tutorial/
 https://pypi.python.org/pypi/pip
 https://github.com/pypa/pip
 
+//django
+https://docs.djangoproject.com/ja/2.0/
 
 
+//flask
+http://flask.pocoo.org/
+https://a2c.bitbucket.io/flask/
 
-
+//jinja2
+http://jinja.pocoo.org/docs/2.10/
 
 
 
